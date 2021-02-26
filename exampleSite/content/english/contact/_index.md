@@ -15,3 +15,14 @@ Faculty of Computer and Mathematical Sciences
 UiTM Kedah Branch Campus  
 08400 Merbok  
 Kedah, MALAYSIA  
+
+Inquiry and reccomendation on the website content and design, please address you inquiry to:  
+
+**Webmaster**  
+Department of Mathematical Sciences  
+Universiti Teknologi MARA (UiTM) Kedah  
+08400 Merbok  
+Kedah Darul Aman, MALAYSIA  
+ariff118@uitm.edu.my  
+
+Or connect with me on GitHub, Facebook, or Linkedin (links in bottom right corner).
