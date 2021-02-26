@@ -5,7 +5,7 @@ paginate = "6"
 summaryLength = "10"
 theme = "educenter-hugo"
 themesDir = "../.."
-title = "Educenter | hugo education template"
+title = "Dept. of Mathematical Sciences"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
@@ -131,13 +131,13 @@ name = "Contact"
 url = "contact"
 weight = 5
 [params]
-address = "9567 Turner Trace Apt. BC C3G8A4"
+address = "Department of Mathematical Sciences, UiTM Kedah, 08400 Merbok, Kedah"
 author = "Themefisher"
 contact_form_action = "#"
 description = "This is meta description"
 email = "deptmathsc@gmail.com"
 google_analitycs_id = ""
-logo = "images/logo.png"
+logo = "images/logo_uitm.png"
 mobile = "+0123456789"
 top_header = true
 [params.cookies]
@@ -145,9 +145,9 @@ enable = true
 expire_days = 2
 [params.map]
 enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyDIGrmu20PiYjX_UxjXfsbxsV_xcskhCZ4"
+map_latitude = "5.710378"
+map_longitude = "100.448444"
 map_marker = "images/marker.png"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
@@ -175,7 +175,7 @@ link = "plugins/google-map/gmap.js"
 enable = true
 preloader = "images/preloader.gif"
 [params.subscription]
-enable = true
+enable = false
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
 [[params.social]]
@@ -192,7 +192,7 @@ link = "#"
 title = "instagram"
 [[params.social]]
 icon = "ti-github"
-link = "#"
+link = "https://github.io/ScMathUiTMKedah/"
 title = "github"
 [[params.social]]
 icon = "ti-linkedin"
