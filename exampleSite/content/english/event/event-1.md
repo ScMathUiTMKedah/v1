@@ -17,7 +17,7 @@ location: "UiTM Kedah, Malaysia"
 # entry fee
 fee: "From: RM350/USD90"
 # apply url
-apply_url : "#"
+apply_url : "https://submit.confbay.com/conf/icms2021"
 # event speaker
 speaker:
   # speaker loop
@@ -53,3 +53,6 @@ Over the years, iCMS international conference has attracted many high quality pa
 The organising committee had also successfully hosted pre-conference workshop namely, “Visualization of Tidy Data” that was conducted by international reputable expert, Dr. Matthias Templ from Statistics Austria and Vienna University of technology and received positive feedback from the participants.  
 
 iCMS2021 will be our fifth international conference. The theme of this coming conference is “Driving Research Toward Excellence”. Given the rapidity with which computing, mathematics, and statistics are advancing in all areas of life, we strongly believed that this upcoming conference is the best platform available for researchers to come together presenting their practical solutions for a better tomorrow as well as become a catalyst for stimulating ideas to further enhance future research and innovations.
+
+For more information on th conference, visit the [official conference website](https://uitmicms.wixsite.com/icms2021)
+
