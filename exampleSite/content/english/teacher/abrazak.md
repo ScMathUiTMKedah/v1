@@ -18,7 +18,7 @@ University: Universiti Putra Malaysia
 Bachelor’s Degree 
 Field of Study: Physics
 Major: Physics
-University: Universiti Pertanian Malaysia  
+University: Universiti Pertanian Malaysia"  
 # interest
 interest: ["Mathematics"]
 # contact info
