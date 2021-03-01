@@ -18,7 +18,7 @@ University: Universiti Putra Malaysia
 Bachelor’s Degree 
 Field of Study: Physics
 Major: Physics
-University: Universiti Pertanian Malaysia
+University: Universiti Pertanian Malaysia  
 # interest
 interest: ["Mathematics"]
 # contact info
@@ -26,7 +26,7 @@ contact:
   # contact item loop
   - name : "arazman@uitm.edu.my"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:arazman7@uitm.edu.my"
+    link : "mailto:arazman@uitm.edu.my"
 
   # contact item loop
   - name : "+60 4 456 2406"
