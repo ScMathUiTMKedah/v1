@@ -1,5 +1,4 @@
 ---
----
 title: "Ab Razak Mansor"
 draft: false
 # page title background image
