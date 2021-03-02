@@ -22,7 +22,7 @@ apply_url : "#"
 speaker:
   # speaker loop
   - name : "Mdm Siti Fairus Mokhtar"
-    image : "images/teacher/siti_fairus.png"
+    image : "images/teachers/siti_fairus.png"
     designation : "Teacher"
 # type
 type: "event"
@@ -30,6 +30,7 @@ type: "event"
 
 ### About Event
 
+![](images/events/workshop_spss_2021.jpg)  
 This is an online workshop virtually on Zoom. This workshop is the first series out of three. In this session, hands on step by step session on data entry and screening will be performed. The, a simple descriptive analysis will be done on the cleaned data set.  
 
 For inquiry, please contact:  
