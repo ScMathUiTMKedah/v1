@@ -137,7 +137,7 @@ contact_form_action = "#"
 description = "This is meta description"
 email = "deptmathsc@gmail.com"
 google_analitycs_id = ""
-logo = "images/logo_uitm.png"
+logo = "images/logo fakulti.png"
 mobile = "+0123456789"
 top_header = true
 [params.cookies]
