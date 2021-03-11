@@ -22,7 +22,7 @@ apply_url : "#"
 speaker:
   # speaker loop
   - name : "Mdm Norin Rahayu Shamsuddin"
-    image : "images/teachers/norin.png"
+    image : "images/teachers/norin_rahayu.jpeg"
     designation : "Teacher"
 # type
 type: "event"
