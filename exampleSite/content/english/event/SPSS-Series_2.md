@@ -21,8 +21,8 @@ apply_url : "#"
 # event speaker
 speaker:
   # speaker loop
-  - name : "Mdm Norashikin Nasaruddin"
-    image : "images/teachers/norashikin.png"
+  - name : "Mdm Norashikin Nasarudin"
+    image : "images/teachers/norashikin_nasarudin.jpg"
     designation : "Teacher"
 # type
 type: "event"
