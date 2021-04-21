@@ -73,29 +73,20 @@ My simplified CV is available [here](files/cv-kamarul.pdf).
 
 #### Education  
 
-+---------------------+---------------------------------------------------+
-| **Degree:**         | Master of Science                                 |
-|                     |                                                   |
-| **Field:**          | Decision Science                                  |
-|                     |                                                   |
-| **Specialization:** | Structural Equation Modeling                      |
-|                     |                                                   |
-| **Year:**           | 31 March 2013 (Graduation Date)                   |
-|                     |                                                   |
-| **Institution:**    | Universiti Utara Malaysia (UUM)                   |
-+---------------------+---------------------------------------------------+
 
-+---------------------+---------------------------------------------------+
-| **Degree:**         | Bachelor of Science                               |
-|                     |                                                   |
-| **Field:**          | Mathematics with Economics                        |
-|                     |                                                   |
-| **Specialization:** | Operations Research                               |
-|                     |                                                   |
-| **Year:**           | 18 December 1992                                  |
-|                     |                                                   |
-| **Institution:**    | University of Kentucky, KY, USA                   |
-+---------------------+---------------------------------------------------+
+**Degree:**         Master of Science\
+**Field:**          Decision Science\
+**Specialization:** Structural Equation Modeling\
+**Year:**           31 March 2013 (Graduation Date)\
+**Institution:**    Universiti Utara Malaysia (UUM)\
+\
+\
+**Degree:**         Bachelor of Science\
+**Field:**          Mathematics with Economics\
+**Specialization:** Operations Research\
+**Year:**           18 December 1992\
+**Institution:**    University of Kentucky, KY, USA\
+
 
 #### Experience  
 
