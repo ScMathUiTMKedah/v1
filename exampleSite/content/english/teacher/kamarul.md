@@ -71,8 +71,7 @@ I am an intermediate user in R and being an active member of [Malaysian R User P
 
 My simplified CV is available [here](files/cv-kamarul.pdf).  
 
-#### Education  
-
+### Education  
 
 **Degree:**         Master of Science\
 **Field:**          Decision Science\
@@ -80,15 +79,13 @@ My simplified CV is available [here](files/cv-kamarul.pdf).
 **Year:**           31 March 2013 (Graduation Date)\
 **Institution:**    Universiti Utara Malaysia (UUM)\
 \
-\
 **Degree:**         Bachelor of Science\
 **Field:**          Mathematics with Economics\
 **Specialization:** Operations Research\
 **Year:**           18 December 1992\
 **Institution:**    University of Kentucky, KY, USA\
 
-
-#### Experience  
+### Experience  
 
 -   AIMST University, Sungai Petani, Kedah (2001 -- 2002)\
     *Lecturer (Mathematics - South Australian Matriculation)*
@@ -111,7 +108,7 @@ My simplified CV is available [here](files/cv-kamarul.pdf).
 -   MIDAS Institute of Technology, Seremban, Negeri Senbilan (1993)\
     *Lecturer (Physics and Calculus)*
 
-#### Administrative Responsibilities
+### Administrative Responsibilities
 
 -   Manager, Memorandum of Understanding (MoU) Between UiTM and Ecological University of Bucharest (EUB) Romania (23 March 2021 - 22 March 2024)
 
@@ -133,7 +130,7 @@ My simplified CV is available [here](files/cv-kamarul.pdf).
     1. Dept. of Information Technology & Quantitative Sciences (2006 - 2007)\
     2. Unit of Information Technology (2006 -- 2007)
 
-#### Current Professional Membership
+### Current Professional Membership
 
 -   SEA Member -- The Romanian Foundation for Business Intelligence (September 1, 2016)
 
@@ -141,7 +138,7 @@ My simplified CV is available [here](files/cv-kamarul.pdf).
 
 -   Institut Statistik Malaysia (ISM) - Members No: 156  
 
-#### Publications  
+### Publications  
 
 NRNA Rashid, C Wangbenmad, KA Mansor (2020). Halal Tourism: Lessons for Destination Managers of Non-Muslim Majority Countries. International Journal of Business and Society, Vol. 21 No. 1, 473-490. Indexing: Scopus. [PDF](files/P28.pdf) 
 
@@ -160,28 +157,21 @@ Mansor, K.A., & Ishak, W.I. (2015). Forecasting Tourist Arrivals to Langkawi Isl
 
 Mansor, K.A., Masduki, R.M.N., Mohamad, M., Zulkarnain, N., & Aziz, N.A. (2015). A Study on Factors Influencing Muslim’s Consumers Preferences Towards Takaful Products In Malaysia. Romanian Statistical Review, 63(2), 78-89. Indexing: [ECSI Thompson Reuters and BDI](http://www.revistadestatistica.ro/index.php/indexing/) [PDF](RRS2_2015_A08.pdf)  
 
-#### Awards  
+### Awards  
 
-**2020**  
-Excellent Presentation Awards (“Integrating English Medium Mathematics Mobile Applications to Teach Low Achiever University Students”)  
-
+**2020** Excellent Presentation Awards (“Integrating English Medium Mathematics Mobile Applications to Teach Low Achiever University Students”)  
 > The 5th National Academic Conference on “Sciences, Arts, and Research for Sustainable Development” and the 2nd International Academic Conference on "Roles of the university as the driver for changes and innovation-based society", held on the 13th – 14th February 2020 at the 2nd Floor, Rattanathepsatri Building, Thepsatri Rajabhat University, Thailand.  
-**2014**  
-Bronze Medal (“Testing Mediation Effect in Social Science Research using Microsoft(R) Excel”)  
-
+**2014** Bronze Medal (“Testing Mediation Effect in Social Science Research using Microsoft(R) Excel”)  
 > Penang Invention, Innovation and Design 2014 (PIID 2014), 3 – 4 December 2014, Dewan Banquet UiTM Pulau Pinang, Malaysia.  
-**2012**  
-Bronze Medal (“Program Gambarajah Pokok Bayes”)  
 
+**2012** Bronze Medal (“Program Gambarajah Pokok Bayes”)  
 > Innovation Platform 2012 (IP 2012), 2 – 4 November 2012, Village Mall Sungai Petani Kedah.  
-**2012**  
-Chairpersom Parallel Session  
 
+**2012** Chairpersom Parallel Session  
 > 1st International Conference on Decision Modeling 2012 (ICDeM 2012), 13 – 16 March 2012, Universiti Utara Malaysia (UUM) Sintok Kedah.  
-**2011**  
-Anugerah Perkhidmatan Cemerlang (UiTM Kedah)  
+
+**2011** Anugerah Perkhidmatan Cemerlang (UiTM Kedah)  
 (Excellence Performance Award)  
 
-**2004**  
-Anugerah Perkhidmatan Cemerlang (UiTM Kedah)  
+**2004** Anugerah Perkhidmatan Cemerlang (UiTM Kedah)  
 (Excellence Performance Award)
